@@ -137,7 +137,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogeslist](http://dogeslist.org/)
 - [Shibe Mart](http://shibemart.com/)
 - [DogeOutlet](https://dogeoutlet.com/)
-- [Dogecoin Media Market](http://dogecoinmediamarket.com/)
 
 ## Directories
 
